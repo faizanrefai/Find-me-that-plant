@@ -1,0 +1,1584 @@
+TFind Me That Plant
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/currentprojects/Find Me That Plant/Classes/AlertHandler.h
+c000000004F2BAFB4000000000000009F
+t1328263092
+s159
+i<Foundation/Foundation.h>
+
+N/currentprojects/Find Me That Plant/Classes/AlertHandler.m
+c000000004F2BB16800000000000003E4
+t1328263528
+s996
+i"AlertHandler.h"
+
+N/currentprojects/Find Me That Plant/Classes/BrowsePlantView.h
+c000000004ED9C3E20000000000000216
+t1322894306
+s534
+i<UIKit/UIKit.h>
+i"PlantDataView.h"
+
+N/currentprojects/Find Me That Plant/Classes/BrowsePlantView.m
+c000000004EDF5BD20000000000000A71
+t1323260882
+s2673
+i"BrowsePlantView.h"
+
+N/currentprojects/Find Me That Plant/Classes/BrowsePlantView.xib
+c000000004EDF5BB4000000000000230D
+t1323260852
+s8973
+
+N/currentprojects/Find Me That Plant/Classes/BrowseView.h
+c000000004F38B42F0000000000000337
+t1329116207
+s823
+i<UIKit/UIKit.h>
+i"BrowsePlantView.h"
+i"SearchView.h"
+i"Find_Me_That_PlantAppDelegate.h"
+
+N/currentprojects/Find Me That Plant/Classes/BrowseView.m
+c000000004F44954700000000000015AA
+t1329894727
+s5546
+i"BrowseView.h"
+i"JSONParser.h"
+
+N/currentprojects/Find Me That Plant/Classes/BrowseView.xib
+c000000004F32182E000000000000478C
+t1328683054
+s18316
+
+N/currentprojects/Find Me That Plant/Classes/CustomCell.xib
+c000000004F55B7E1000000000000AE94
+t1331017697
+s44692
+
+N/currentprojects/Find Me That Plant/Classes/EGOCache/EGOCache.h
+c000000004DA5228A0000000000000B3A
+t1302667914
+s2874
+i<Foundation/Foundation.h>
+
+N/currentprojects/Find Me That Plant/Classes/EGOCache/EGOCache.m
+c000000004DA5228A00000000000026BD
+t1302667914
+s9917
+i"EGOCache.h"
+
+N/currentprojects/Find Me That Plant/Classes/EGOImageButton/EGOImageButton.h
+c000000004E43A41C00000000000007F1
+t1313055772
+s2033
+i<UIKit/UIKit.h>
+i"EGOImageLoader.h"
+
+N/currentprojects/Find Me That Plant/Classes/EGOImageButton/EGOImageButton.m
+c000000004E43A41C0000000000000DCC
+t1313055772
+s3532
+i"EGOImageButton.h"
+
+N/currentprojects/Find Me That Plant/Classes/EGOImageLoader/EGOImageLoadConnection.h
+c000000004E43A41C0000000000000909
+t1313055772
+s2313
+i<Foundation/Foundation.h>
+
+N/currentprojects/Find Me That Plant/Classes/EGOImageLoader/EGOImageLoadConnection.m
+c000000004E43A41C0000000000000D54
+t1313055772
+s3412
+i"EGOImageLoadConnection.h"
+
+N/currentprojects/Find Me That Plant/Classes/EGOImageLoader/EGOImageLoader.h
+c000000004E43A41C0000000000000BBD
+t1313055772
+s3005
+i<Foundation/Foundation.h>
+
+N/currentprojects/Find Me That Plant/Classes/EGOImageLoader/EGOImageLoader.m
+c000000004F545F740000000000002F0E
+t1330929524
+s12046
+i"EGOImageLoader.h"
+i"EGOImageLoadConnection.h"
+i"EGOCache.h"
+
+N/currentprojects/Find Me That Plant/Classes/EGOImageView/EGOImageView.h
+c000000004F2A7EF20000000000000854
+t1328185074
+s2132
+i<UIKit/UIKit.h>
+i"EGOImageLoader.h"
+
+N/currentprojects/Find Me That Plant/Classes/EGOImageView/EGOImageView.m
+c000000004F545FDC0000000000001334
+t1330929628
+s4916
+i"EGOImageView.h"
+i"EGOImageLoader.h"
+
+N/currentprojects/Find Me That Plant/Classes/ExhibitionsShowsView.h
+c000000004ED9CBC800000000000000EB
+t1322896328
+s235
+i<UIKit/UIKit.h>
+
+N/currentprojects/Find Me That Plant/Classes/ExhibitionsShowsView.m
+c000000004EE9861000000000000004C3
+t1323927056
+s1219
+i"ExhibitionsShowsView.h"
+
+N/currentprojects/Find Me That Plant/Classes/ExhibitionsShowsView.xib
+c000000004ED9CC7A0000000000001AF7
+t1322896506
+s6903
+
+N/currentprojects/Find Me That Plant/Classes/Find_Me_That_PlantAppDelegate.h
+c000000004F39F34F00000000000003E3
+t1329197903
+s995
+i<UIKit/UIKit.h>
+
+N/currentprojects/Find Me That Plant/Classes/Find_Me_That_PlantAppDelegate.m
+c000000004F39F2A90000000000000B42
+t1329197737
+s2882
+i"Find_Me_That_PlantAppDelegate.h"
+i"RootViewController.h"
+
+N/currentprojects/Find Me That Plant/Classes/InvitationInfo.h
+c000000004F54607D0000000000000604
+t1330929789
+s1540
+i<UIKit/UIKit.h>
+i"websiteview.h"
+i"NurseryView.h"
+i"EGOImageView.h"
+i"Find_Me_That_PlantAppDelegate.h"
+
+N/currentprojects/Find Me That Plant/Classes/InvitationInfo.m
+c000000004F5460A600000000000020F6
+t1330929830
+s8438
+i"InvitationInfo.h"
+
+N/currentprojects/Find Me That Plant/Classes/InvitationInfo.xib
+c000000004F39168E000000000000F6A4
+t1329141390
+s63140
+
+N/currentprojects/Find Me That Plant/Classes/JSON/JSON.h
+c000000004E2414F400000000000008F9
+t1310987508
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/currentprojects/Find Me That Plant/Classes/JSON/JSONParser.h
+c000000004E5E2EE4000000000000025D
+t1314795236
+s605
+i<Foundation/Foundation.h>
+i"JSON.h"
+
+N/currentprojects/Find Me That Plant/Classes/JSON/JSONParser.m
+c000000004E5E33000000000000000734
+t1314796288
+s1844
+i"JSONParser.h"
+
+N/currentprojects/Find Me That Plant/Classes/JSON/NSObject+SBJSON.h
+c000000004B93BE5E0000000000000A01
+t1267973726
+s2561
+i<Foundation/Foundation.h>
+
+N/currentprojects/Find Me That Plant/Classes/JSON/NSObject+SBJSON.m
+c000000004B93BE5E000000000000089E
+t1267973726
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/currentprojects/Find Me That Plant/Classes/JSON/NSString+SBJSON.h
+c000000004B93BE5E0000000000000916
+t1267973726
+s2326
+i<Foundation/Foundation.h>
+
+N/currentprojects/Find Me That Plant/Classes/JSON/NSString+SBJSON.m
+c000000004B93BE5E000000000000087D
+t1267973726
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/currentprojects/Find Me That Plant/Classes/JSON/SBJSON.h
+c000000004B93BE5E0000000000000AED
+t1267973726
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/currentprojects/Find Me That Plant/Classes/JSON/SBJSON.m
+c000000004B93BE5E0000000000001ABC
+t1267973726
+s6844
+i"SBJSON.h"
+
+N/currentprojects/Find Me That Plant/Classes/JSON/SBJsonBase.h
+c000000004B93BE5E0000000000000B82
+t1267973726
+s2946
+i<Foundation/Foundation.h>
+
+N/currentprojects/Find Me That Plant/Classes/JSON/SBJsonBase.m
+c000000004B93BE5E0000000000000AC1
+t1267973726
+s2753
+i"SBJsonBase.h"
+
+N/currentprojects/Find Me That Plant/Classes/JSON/SBJsonParser.h
+c000000004D62300C0000000000000C0B
+t1298280460
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/currentprojects/Find Me That Plant/Classes/JSON/SBJsonParser.m
+c000000004B93C6A400000000000036D0
+t1267975844
+s14032
+i"SBJsonParser.h"
+
+N/currentprojects/Find Me That Plant/Classes/JSON/SBJsonWriter.h
+c000000004B93BE5E0000000000001140
+t1267973726
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/currentprojects/Find Me That Plant/Classes/JSON/SBJsonWriter.m
+c000000004D035AEA0000000000001F26
+t1292065514
+s7974
+i"SBJsonWriter.h"
+
+N/currentprojects/Find Me That Plant/Classes/Locations.h
+c000000004ED9CB7200000000000000D5
+t1322896242
+s213
+i<UIKit/UIKit.h>
+
+N/currentprojects/Find Me That Plant/Classes/Locations.m
+c000000004EE985FE00000000000004A0
+t1323927038
+s1184
+i"Locations.h"
+
+N/currentprojects/Find Me That Plant/Classes/Locations.xib
+c000000004ED9CC320000000000001AD0
+t1322896434
+s6864
+
+N/currentprojects/Find Me That Plant/Classes/NursarylistViewController.h
+c000000004F544BBE00000000000001C7
+t1330924478
+s455
+i<UIKit/UIKit.h>
+i"NurseryView.h"
+i"JSONParser.h"
+
+N/currentprojects/Find Me That Plant/Classes/NursarylistViewController.m
+c000000004F54520B0000000000000F45
+t1330926091
+s3909
+i"NursarylistViewController.h"
+
+N/currentprojects/Find Me That Plant/Classes/NursarylistViewController.xib
+c000000004F32180E000000000000478C
+t1328683022
+s18316
+
+N/currentprojects/Find Me That Plant/Classes/NurseryView.h
+c000000004F54695D00000000000008CC
+t1330932061
+s2252
+i<UIKit/UIKit.h>
+i"ServiceOfferedView.h"
+i"SpecialOffersView.h"
+i"Locations.h"
+i"OpeningTimesView.h"
+i"ExhibitionsShowsView.h"
+i"PlantDataView.h"
+i"InvitationInfo.h"
+i"websiteview.h"
+i"JSONParser.h"
+i"EGOImageView.h"
+i"Find_Me_That_PlantAppDelegate.h"
+
+N/currentprojects/Find Me That Plant/Classes/NurseryView.m
+c000000004F547B74000000000000235F
+t1330936692
+s9055
+i"NurseryView.h"
+i"JSONParser.h"
+i"EGOImageView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/currentprojects/Find Me That Plant/Classes/NurseryView.xib
+c000000004F321B7A00000000000096BD
+t1328683898
+s38589
+
+N/currentprojects/Find Me That Plant/Classes/OpeningTimesView.h
+c000000004ED9CB9C00000000000000E3
+t1322896284
+s227
+i<UIKit/UIKit.h>
+
+N/currentprojects/Find Me That Plant/Classes/OpeningTimesView.m
+c000000004EE9860800000000000004B9
+t1323927048
+s1209
+i"OpeningTimesView.h"
+
+N/currentprojects/Find Me That Plant/Classes/OpeningTimesView.xib
+c000000004ED9CC4C0000000000001AE9
+t1322896460
+s6889
+
+N/currentprojects/Find Me That Plant/Classes/PlantDataView.h
+c000000004EEAD98C0000000000000144
+t1324013964
+s324
+i<UIKit/UIKit.h>
+i"websiteview.h"
+
+N/currentprojects/Find Me That Plant/Classes/PlantDataView.m
+c000000004EEB1E8E0000000000000967
+t1324031630
+s2407
+i"PlantDataView.h"
+
+N/currentprojects/Find Me That Plant/Classes/PlantDataView.xib
+c000000004EE9837A0000000000006189
+t1323926394
+s24969
+
+N/currentprojects/Find Me That Plant/Classes/RootViewController.h
+c000000004F2FB70400000000000002F9
+t1328527108
+s761
+i<UIKit/UIKit.h>
+i"SearchView.h"
+i"BrowseView.h"
+
+N/currentprojects/Find Me That Plant/Classes/RootViewController.m
+c000000004F363CD80000000000001B9F
+t1328954584
+s7071
+i"RootViewController.h"
+
+N/currentprojects/Find Me That Plant/Classes/SearchCustomCell.xib
+c000000004F4482A90000000000005DC7
+t1329889961
+s24007
+
+N/currentprojects/Find Me That Plant/Classes/SearchView.h
+c000000004F38FB0100000000000006A1
+t1329134337
+s1697
+i<UIKit/UIKit.h>
+i"PlantDataView.h"
+i"InvitationInfo.h"
+i"websiteview.h"
+i"JSONParser.h"
+i"RootViewController.h"
+i"EGOImageView.h"
+
+N/currentprojects/Find Me That Plant/Classes/SearchView.m
+c000000004F4494FA00000000000024EC
+t1329894650
+s9452
+i"SearchView.h"
+i"JSONParser.h"
+i"RootViewController.h"
+i"EGOImageView.h"
+i"Find_Me_That_PlantAppDelegate.h"
+i"BrowseView.h"
+
+N/currentprojects/Find Me That Plant/Classes/SearchView.xib
+c000000004F3220F0000000000000655C
+t1328685296
+s25948
+
+N/currentprojects/Find Me That Plant/Classes/ServiceOfferedView.h
+c000000004ED9CB2C00000000000000E7
+t1322896172
+s231
+i<UIKit/UIKit.h>
+
+N/currentprojects/Find Me That Plant/Classes/ServiceOfferedView.m
+c000000004EE985EC00000000000004C2
+t1323927020
+s1218
+i"ServiceOfferedView.h"
+
+N/currentprojects/Find Me That Plant/Classes/ServiceOfferedView.xib
+c000000004ED9CC060000000000001AF2
+t1322896390
+s6898
+
+N/currentprojects/Find Me That Plant/Classes/SpecialOffersView.h
+c000000004ED9CB5000000000000000E5
+t1322896208
+s229
+i<UIKit/UIKit.h>
+
+N/currentprojects/Find Me That Plant/Classes/SpecialOffersView.m
+c000000004EE985F400000000000004B3
+t1323927028
+s1203
+i"SpecialOffersView.h"
+
+N/currentprojects/Find Me That Plant/Classes/SpecialOffersView.xib
+c000000004ED9CC1E0000000000001AED
+t1322896414
+s6893
+
+N/currentprojects/Find Me That Plant/Classes/images.jpg
+c000000004F2FA3AA000000000000059F
+t1328522154
+s1439
+
+N/currentprojects/Find Me That Plant/Classes/websiteview.h
+c000000004F39F34F0000000000000210
+t1329197903
+s528
+i<UIKit/UIKit.h>
+i"AlertHandler.h"
+i"Find_Me_That_PlantAppDelegate.h"
+
+N/currentprojects/Find Me That Plant/Classes/websiteview.m
+c000000004F39F47E000000000000083D
+t1329198206
+s2109
+i"websiteview.h"
+i"AlertHandler.h"
+
+N/currentprojects/Find Me That Plant/Classes/websiteview.xib
+c000000004EEAD67C00000000000054AB
+t1324013180
+s21675
+
+N/currentprojects/Find Me That Plant/Default.png
+c000000004F3106F60000000000015FF3
+t1328613110
+s90099
+
+N/currentprojects/Find Me That Plant/Find_Me_That_Plant_Prefix.pch
+c000000004ED9B6480000000000000156
+t1322890824
+s342
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/currentprojects/Find Me That Plant/Image2.jpg
+c000000004EE059AC00000000000177D1
+t1323325868
+s96209
+
+N/currentprojects/Find Me That Plant/Image3.jpg
+c000000004EE059BC00000000000177D1
+t1323325884
+s96209
+
+N/currentprojects/Find Me That Plant/Image4.jpg
+c000000004EE059CA0000000000004E1F
+t1323325898
+s19999
+
+N/currentprojects/Find Me That Plant/MainImage.jpg
+c000000004EE0599A000000000000CDC7
+t1323325850
+s52679
+
+N/currentprojects/Find Me That Plant/MainWindow.xib
+c000000004F4492EF00000000000058EB
+t1329894127
+s22763
+
+N/currentprojects/Find Me That Plant/Plant1.jpg
+c000000004EDF0F9A0000000000004073
+t1323241370
+s16499
+
+N/currentprojects/Find Me That Plant/Plant2.jpg
+c000000004EDF0FBE000000000000152D
+t1323241406
+s5421
+
+N/currentprojects/Find Me That Plant/Plant3.jpg
+c000000004EDF0FD600000000000043B5
+t1323241430
+s17333
+
+N/currentprojects/Find Me That Plant/Plant4.jpg
+c000000004EDF0FEC0000000000002A61
+t1323241452
+s10849
+
+N/currentprojects/Find Me That Plant/Plant5.jpg
+c000000004EDF100C0000000000004021
+t1323241484
+s16417
+
+N/currentprojects/Find Me That Plant/PlantImg.jpg
+c000000004ED9D4440000000000002316
+t1322898500
+s8982
+
+N/currentprojects/Find Me That Plant/RootViewController.xib
+c000000004F448D9F000000000000437B
+t1329892767
+s17275
+
+N/currentprojects/Find Me That Plant/back button.png
+c000000004F323D1C000000000000120B
+t1328692508
+s4619
+
+N/currentprojects/Find Me That Plant/browse.png
+c000000004F321C2800000000000015DE
+t1328684072
+s5598
+
+N/currentprojects/Find Me That Plant/browsecat.png
+c000000004F30FA600000000000002B5B
+t1328609888
+s11099
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app.dSYM
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/BrowsePlantView.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/BrowseView.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/CustomCell.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Default.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/ExhibitionsShowsView.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Find Me That Plant
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Image2.jpg
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Image3.jpg
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Image4.jpg
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Info.plist
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/InvitationInfo.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Locations.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/MainImage.jpg
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/MainWindow.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/NursarylistViewController.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/NurseryView.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/OpeningTimesView.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/PkgInfo
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Plant1.jpg
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Plant2.jpg
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Plant3.jpg
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Plant4.jpg
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Plant5.jpg
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/PlantDataView.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/PlantImg.jpg
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/ResourceRules.plist
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/RootViewController.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/SearchCustomCell.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/SearchView.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/ServiceOfferedView.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/SpecialOffersView.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/back button.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/browse.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/browsecat.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/button.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/buy.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/buybutton.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/cellbackground.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/imagebackground.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/images.jpg
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/infobutton.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/leftbutton.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/nurserybutton.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/nurserycell.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/nurtab.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/plantnav.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/planttab.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/point.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/point@2x.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/rootview_background.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/searchbutton.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/searchtext.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/selectedPoint.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/selectedPoint@2x.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/tab2.png
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/websiteview.nib
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/AlertHandler.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/BrowsePlantView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/BrowseView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/EGOCache.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/EGOImageButton.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/EGOImageLoadConnection.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/EGOImageLoader.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/EGOImageView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/ExhibitionsShowsView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/Find Me That Plant
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/Find Me That Plant.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/Find_Me_That_PlantAppDelegate.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/InvitationInfo.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/JSONParser.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/Locations.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/NSObject+SBJSON.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/NSString+SBJSON.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/NursarylistViewController.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/NurseryView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/OpeningTimesView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/PlantDataView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SBJSON.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SBJsonBase.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SBJsonParser.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SBJsonWriter.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SearchView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/ServiceOfferedView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SpecialOffersView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/websiteview.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/AlertHandler.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/BrowsePlantView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/BrowseView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/EGOCache.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/EGOImageButton.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/EGOImageLoadConnection.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/EGOImageLoader.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/EGOImageView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/ExhibitionsShowsView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/Find Me That Plant
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/Find Me That Plant.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/Find_Me_That_PlantAppDelegate.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/InvitationInfo.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/JSONParser.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/Locations.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/NSObject+SBJSON.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/NSString+SBJSON.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/NursarylistViewController.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/NurseryView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/OpeningTimesView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/PlantDataView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SBJSON.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SBJsonBase.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SBJsonParser.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SBJsonWriter.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SearchView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/ServiceOfferedView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SpecialOffersView.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/websiteview.o
+t2
+s0
+
+N/currentprojects/Find Me That Plant/button.png
+c000000004F31122A0000000000000FEA
+t1328615978
+s4074
+
+N/currentprojects/Find Me That Plant/buy.png
+c000000004F311CC600000000000010FA
+t1328618694
+s4346
+
+N/currentprojects/Find Me That Plant/buybutton.png
+c000000004F3109700000000000000F1D
+t1328613744
+s3869
+
+N/currentprojects/Find Me That Plant/cellbackground.png
+c000000004F3100F80000000000000B60
+t1328611576
+s2912
+
+N/currentprojects/Find Me That Plant/imagebackground.png
+c000000004F3123CC0000000000000E96
+t1328620492
+s3734
+
+N/currentprojects/Find Me That Plant/images/point.png
+c000000004ECC8E4E0000000000000DA5
+t1322028622
+s3493
+
+N/currentprojects/Find Me That Plant/images/point@2x.png
+c000000004ECC8E4E00000000000010D6
+t1322028622
+s4310
+
+N/currentprojects/Find Me That Plant/images/selectedPoint.png
+c000000004ECC8E4E0000000000000DA4
+t1322028622
+s3492
+
+N/currentprojects/Find Me That Plant/images/selectedPoint@2x.png
+c000000004ECC8E4E000000000000118D
+t1322028622
+s4493
+
+N/currentprojects/Find Me That Plant/infobutton.png
+c000000004F310C300000000000000F5C
+t1328614448
+s3932
+
+N/currentprojects/Find Me That Plant/leftbutton.png
+c000000004F3118DE0000000000001052
+t1328617694
+s4178
+
+N/currentprojects/Find Me That Plant/main.m
+c000000004ED9B6480000000000000165
+t1322890824
+s357
+i<UIKit/UIKit.h>
+
+N/currentprojects/Find Me That Plant/nurserybutton.png
+c000000004F311B3C00000000000010FA
+t1328618300
+s4346
+
+N/currentprojects/Find Me That Plant/nurserycell.png
+c000000004F310DF40000000000000D3A
+t1328614900
+s3386
+
+N/currentprojects/Find Me That Plant/nurtab.png
+c000000004F32126C0000000000000F89
+t1328681580
+s3977
+
+N/currentprojects/Find Me That Plant/plantnav.png
+c000000004F30FDBE000000000000198A
+t1328610750
+s6538
+
+N/currentprojects/Find Me That Plant/planttab.png
+c000000004F3213F600000000000014BE
+t1328681974
+s5310
+
+N/currentprojects/Find Me That Plant/rootview_background.png
+c000000004F30F7FC000000000000452C
+t1328609276
+s17708
+
+N/currentprojects/Find Me That Plant/searchbutton.png
+c000000004F30F9B800000000000023B4
+t1328609720
+s9140
+
+N/currentprojects/Find Me That Plant/searchtext.png
+c000000004F321CDE00000000000015DE
+t1328684254
+s5598
+
+N/currentprojects/Find Me That Plant/tab2.png
+c000000004F3211CA00000000000013BF
+t1328681418
+s5055
+
+N/var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Find_Me_That_Plant_Prefix-ejmuwntnxvelyxdbmroaptyepklr/Find_Me_That_Plant_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Find_Me_That_Plant_Prefix-fwpevpxfhlthtqexstxugwqnvsff/Find_Me_That_Plant_Prefix.pch.gch
+t2
+s0
+
+NFind_Me_That_Plant-Info.plist
+c000000004ED9B648000000000000038D
+t1322890824
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies352811048#352811048#0(147"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Find-Me-That-Plant' could not be found1(4@139"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Find-Me-That-Plant' could not be found352811048#18446744073709551615#0#0(1@0"0(0#1#0"8619211328#0"0#
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/AlertHandler.o" "/currentprojects/Find Me That Plant/Classes/AlertHandler.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/BrowsePlantView.o" "/currentprojects/Find Me That Plant/Classes/BrowsePlantView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/BrowseView.o" "/currentprojects/Find Me That Plant/Classes/BrowseView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/EGOCache.o" "/currentprojects/Find Me That Plant/Classes/EGOCache/EGOCache.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/EGOImageButton.o" "/currentprojects/Find Me That Plant/Classes/EGOImageButton/EGOImageButton.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/EGOImageLoadConnection.o" "/currentprojects/Find Me That Plant/Classes/EGOImageLoader/EGOImageLoadConnection.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/EGOImageLoader.o" "/currentprojects/Find Me That Plant/Classes/EGOImageLoader/EGOImageLoader.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/EGOImageView.o" "/currentprojects/Find Me That Plant/Classes/EGOImageView/EGOImageView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/ExhibitionsShowsView.o" "/currentprojects/Find Me That Plant/Classes/ExhibitionsShowsView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/Find_Me_That_PlantAppDelegate.o" "/currentprojects/Find Me That Plant/Classes/Find_Me_That_PlantAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/InvitationInfo.o" "/currentprojects/Find Me That Plant/Classes/InvitationInfo.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/JSONParser.o" "/currentprojects/Find Me That Plant/Classes/JSON/JSONParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/Locations.o" "/currentprojects/Find Me That Plant/Classes/Locations.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/NSObject+SBJSON.o" "/currentprojects/Find Me That Plant/Classes/JSON/NSObject+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/NSString+SBJSON.o" "/currentprojects/Find Me That Plant/Classes/JSON/NSString+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/NursarylistViewController.o" "/currentprojects/Find Me That Plant/Classes/NursarylistViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/NurseryView.o" "/currentprojects/Find Me That Plant/Classes/NurseryView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/OpeningTimesView.o" "/currentprojects/Find Me That Plant/Classes/OpeningTimesView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/PlantDataView.o" "/currentprojects/Find Me That Plant/Classes/PlantDataView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/RootViewController.o" "/currentprojects/Find Me That Plant/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SBJSON.o" "/currentprojects/Find Me That Plant/Classes/JSON/SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SBJsonBase.o" "/currentprojects/Find Me That Plant/Classes/JSON/SBJsonBase.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SBJsonParser.o" "/currentprojects/Find Me That Plant/Classes/JSON/SBJsonParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SBJsonWriter.o" "/currentprojects/Find Me That Plant/Classes/JSON/SBJsonWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SearchView.o" "/currentprojects/Find Me That Plant/Classes/SearchView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/ServiceOfferedView.o" "/currentprojects/Find Me That Plant/Classes/ServiceOfferedView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/SpecialOffersView.o" "/currentprojects/Find Me That Plant/Classes/SpecialOffersView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/main.o" "/currentprojects/Find Me That Plant/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/websiteview.o" "/currentprojects/Find Me That Plant/Classes/websiteview.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/AlertHandler.o" "/currentprojects/Find Me That Plant/Classes/AlertHandler.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/BrowsePlantView.o" "/currentprojects/Find Me That Plant/Classes/BrowsePlantView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/BrowseView.o" "/currentprojects/Find Me That Plant/Classes/BrowseView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/EGOCache.o" "/currentprojects/Find Me That Plant/Classes/EGOCache/EGOCache.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/EGOImageButton.o" "/currentprojects/Find Me That Plant/Classes/EGOImageButton/EGOImageButton.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/EGOImageLoadConnection.o" "/currentprojects/Find Me That Plant/Classes/EGOImageLoader/EGOImageLoadConnection.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/EGOImageLoader.o" "/currentprojects/Find Me That Plant/Classes/EGOImageLoader/EGOImageLoader.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/EGOImageView.o" "/currentprojects/Find Me That Plant/Classes/EGOImageView/EGOImageView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/ExhibitionsShowsView.o" "/currentprojects/Find Me That Plant/Classes/ExhibitionsShowsView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/Find_Me_That_PlantAppDelegate.o" "/currentprojects/Find Me That Plant/Classes/Find_Me_That_PlantAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/InvitationInfo.o" "/currentprojects/Find Me That Plant/Classes/InvitationInfo.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/JSONParser.o" "/currentprojects/Find Me That Plant/Classes/JSON/JSONParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/Locations.o" "/currentprojects/Find Me That Plant/Classes/Locations.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/NSObject+SBJSON.o" "/currentprojects/Find Me That Plant/Classes/JSON/NSObject+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/NSString+SBJSON.o" "/currentprojects/Find Me That Plant/Classes/JSON/NSString+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/NursarylistViewController.o" "/currentprojects/Find Me That Plant/Classes/NursarylistViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/NurseryView.o" "/currentprojects/Find Me That Plant/Classes/NurseryView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/OpeningTimesView.o" "/currentprojects/Find Me That Plant/Classes/OpeningTimesView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/PlantDataView.o" "/currentprojects/Find Me That Plant/Classes/PlantDataView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/RootViewController.o" "/currentprojects/Find Me That Plant/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SBJSON.o" "/currentprojects/Find Me That Plant/Classes/JSON/SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SBJsonBase.o" "/currentprojects/Find Me That Plant/Classes/JSON/SBJsonBase.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SBJsonParser.o" "/currentprojects/Find Me That Plant/Classes/JSON/SBJsonParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SBJsonWriter.o" "/currentprojects/Find Me That Plant/Classes/JSON/SBJsonWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SearchView.o" "/currentprojects/Find Me That Plant/Classes/SearchView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/ServiceOfferedView.o" "/currentprojects/Find Me That Plant/Classes/ServiceOfferedView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/SpecialOffersView.o" "/currentprojects/Find Me That Plant/Classes/SpecialOffersView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/main.o" "/currentprojects/Find Me That Plant/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/websiteview.o" "/currentprojects/Find Me That Plant/Classes/websiteview.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/BrowsePlantView.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/BrowseView.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/CustomCell.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/ExhibitionsShowsView.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/InvitationInfo.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/Locations.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/NursarylistViewController.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/NurseryView.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/OpeningTimesView.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/PlantDataView.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/SearchCustomCell.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/SearchView.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/ServiceOfferedView.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/SpecialOffersView.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/Classes/websiteview.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/MainWindow.xib"
+r0
+
+CCompileXIB "/currentprojects/Find Me That Plant/RootViewController.xib"
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/back button.png" "back button.png"
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/browse.png" browse.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/browsecat.png" browsecat.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/button.png" button.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/buy.png" buy.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/buybutton.png" buybutton.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/cellbackground.png" cellbackground.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/imagebackground.png" imagebackground.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/infobutton.png" infobutton.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/leftbutton.png" leftbutton.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/nurserybutton.png" nurserybutton.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/nurserycell.png" nurserycell.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/nurtab.png" nurtab.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/plantnav.png" plantnav.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/planttab.png" planttab.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/point.png" images/point.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/point@2x.png" images/point@2x.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/rootview_background.png" rootview_background.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/searchbutton.png" searchbutton.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/searchtext.png" searchtext.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/selectedPoint.png" images/selectedPoint.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/selectedPoint@2x.png" images/selectedPoint@2x.png
+r0
+
+CCopyPNGFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/tab2.png" tab2.png
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/Image2.jpg" Image2.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/Image3.jpg" Image3.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/Image4.jpg" Image4.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/MainImage.jpg" MainImage.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/Plant1.jpg" Plant1.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/Plant2.jpg" Plant2.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/Plant3.jpg" Plant3.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/Plant4.jpg" Plant4.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/Plant5.jpg" Plant5.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/PlantImg.jpg" PlantImg.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource "build/Debug-iphoneos/Find Me That Plant.app/images.jpg" Classes/images.jpg
+r0
+
+CCreateUniversalBinary "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Find Me That Plant" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app.dSYM" "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Find Me That Plant"
+r0
+
+CLd "/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv6/Find Me That Plant" normal armv6
+r0
+
+CLd "/currentprojects/Find Me That Plant/build/Find Me That Plant.build/Debug-iphoneos/Find Me That Plant.build/Objects-normal/armv7/Find Me That Plant" normal armv7
+r0
+
+CProcessInfoPlistFile "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app/Info.plist" Find_Me_That_Plant-Info.plist
+r0
+
+CProcessPCH /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Find_Me_That_Plant_Prefix-ejmuwntnxvelyxdbmroaptyepklr/Find_Me_That_Plant_Prefix.pch.gch Find_Me_That_Plant_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EO/EOLQe1S3EoaAwa6--5Lhak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Find_Me_That_Plant_Prefix-fwpevpxfhlthtqexstxugwqnvsff/Find_Me_That_Plant_Prefix.pch.gch Find_Me_That_Plant_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/currentprojects/Find Me That Plant/build/Debug-iphoneos/Find Me That Plant.app"
+r0
+

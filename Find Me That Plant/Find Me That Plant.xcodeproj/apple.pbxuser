@@ -1,0 +1,201 @@
+// !$*UTF8*$!
+{
+	180F3EC7149356850015CEE3 /* SearchCustomCell.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 18E06ADB148A081200DA262F /* SearchCustomCell.m */;
+		functionName = "-setParentObj:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 20;
+		location = "Find Me That Plant";
+		modificationTime = 345200264.637782;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	180F3EC91493568C0015CEE3 /* SearchView.m:14 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 18E06A9C1489F02900DA262F /* SearchView.m */;
+		functionName = "-initWithNibName:bundle:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 14;
+		location = "Find Me That Plant";
+		modificationTime = 345200280.372015;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	180F3ECB1493568E0015CEE3 /* SearchView.m:31 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 18E06A9C1489F02900DA262F /* SearchView.m */;
+		functionName = "-searchwithKeyWord:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 31;
+		location = "Find Me That Plant";
+		modificationTime = 345200270.850884;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	180F3ECD149356920015CEE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18E06ADB148A081200DA262F /* SearchCustomCell.m */;
+		name = "SearchCustomCell.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 509;
+		vrLoc = 49;
+	};
+	180F3ECE149356920015CEE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18E06A9C1489F02900DA262F /* SearchView.m */;
+		name = "SearchView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 678;
+		vrLoc = 401;
+	};
+	180F3EDB149356AE0015CEE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18E06A9C1489F02900DA262F /* SearchView.m */;
+		name = "SearchView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 20;
+	};
+	188B3D8B1489EDC700343860 /* Find Me That Plant */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Find Me That Plant";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	188B3D9A1489EDCD00343860 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	188B3D9B1489EDCD00343860 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	18E06A9C1489F02900DA262F /* SearchView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 2639}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{20, 738}";
+		};
+	};
+	18E06ADB148A081200DA262F /* SearchCustomCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 403}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{49, 509}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Find Me That Plant */ = {
+		activeExec = 0;
+		executables = (
+			188B3D8B1489EDC700343860 /* Find Me That Plant */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 188B3D8B1489EDC700343860 /* Find Me That Plant */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Find Me That Plant */;
+		breakpoints = (
+			180F3EC7149356850015CEE3 /* SearchCustomCell.m:20 */,
+			180F3EC91493568C0015CEE3 /* SearchView.m:14 */,
+			180F3ECB1493568E0015CEE3 /* SearchView.m:31 */,
+		);
+		codeSenseManager = 188B3D9B1489EDCD00343860 /* Code sense */;
+		executables = (
+			188B3D8B1489EDC700343860 /* Find Me That Plant */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 345200214;
+			PBXWorkspaceStateSaveDate = 345200214;
+		};
+		perUserProjectItems = {
+			180F3ECD149356920015CEE3 /* PBXTextBookmark */ = 180F3ECD149356920015CEE3 /* PBXTextBookmark */;
+			180F3ECE149356920015CEE3 /* PBXTextBookmark */ = 180F3ECE149356920015CEE3 /* PBXTextBookmark */;
+			180F3EDB149356AE0015CEE3 /* PBXTextBookmark */ = 180F3EDB149356AE0015CEE3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 188B3D9A1489EDCD00343860 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
